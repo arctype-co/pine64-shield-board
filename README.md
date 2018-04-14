@@ -1,8 +1,12 @@
 # pine64-shield-board
 
- An empty Pine64 shield project, with a board outline template for your circuit.
+ An empty Pine64 shield project for KiCad, with a board outline template for your circuit.
  
- ## CAD Files
+ ## KiCad
+ 
+ This board file was developed using KiCad EDA 4.07 http://kicad-pcb.org/
+ 
+ ## Mechanical CAD
  
  The board layout is also available online in OnShape for mechanical design layouts.
  
