@@ -4,7 +4,7 @@
  
  ## KiCad
  
- This board file was developed using KiCad EDA 4.07 http://kicad-pcb.org/
+ This board file was developed using KiCad EDA 4.07 http://kicad.org/
  
  ## Mechanical CAD
  
